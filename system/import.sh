@@ -21,3 +21,6 @@
 
 # Import Indicator
 . system/indicator.sh
+
+# Import GIT
+. system/git.sh
