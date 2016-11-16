@@ -24,3 +24,9 @@
 
 # Import GIT
 . system/git.sh
+
+# Import Java8
+. system/java.sh
+
+# Import Node
+. system/node.sh
