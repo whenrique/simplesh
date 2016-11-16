@@ -59,4 +59,4 @@
 . desktop/dropbox.sh
 
 #Import Terminator
-. desktop/termiantor.sh
+. desktop/terminator.sh
